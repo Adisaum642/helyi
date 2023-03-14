@@ -8,7 +8,8 @@ import Offer from "./Offer/Offer"
 export default function Package() {
 
   return (<div className={styles.package}>
-{/*     <lable className={styles.packageTitle}>Package</lable> */}
+    <Offer />
+
      <PackageDetail>Package</PackageDetail>
 <PackageDetail/>
     <PackageDetail/>
@@ -17,7 +18,7 @@ export default function Package() {
     <PackageDetail/>
     <PackageDetail/>
     
-    <Offer />
+    
 
   </div>)
 

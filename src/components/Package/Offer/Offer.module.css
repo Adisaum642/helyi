@@ -1,0 +1,41 @@
+.offer{
+  display: flex;
+  flex-direction: column;
+  align-items:flex-end;
+  }
+
+.offertitle{
+  display:flex; 
+  position: absolute;
+
+left: 935px;
+top: 888px;
+  font-weight: 800;
+font-size: 30px;
+}
+
+.avl{
+  position: absolute;
+
+left: 940px;
+top: 936px;
+  font-weight: 600;
+font-size: 17px;
+
+
+color: rgba(44, 44, 44, 0.6);
+
+}
+
+.coupon{
+  position: absolute;
+width: 382px;
+height: 61px;
+left: 936px;
+top: 978px;
+  padding:21px 74px 20x 158px;
+  border: 2px dashed #8E8E8E;
+border-radius: 5px;
+}
+
+

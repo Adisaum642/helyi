@@ -15,7 +15,7 @@
   -webkit-transform: rotate(45deg);
 }
 
-input{
+.field{
   font-family: 'Plus Jakarta Sans';
   font-size: 15px;
   width: 135px;
