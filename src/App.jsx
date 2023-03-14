@@ -2,6 +2,7 @@ import './App.css'
 import Navbar from "./components/Navbar/Navbar"
 import Banner from "./components/Banner/Banner"
 import Package from "./components/Package/Package"
+import FooterBanner from './components/FooterBanner/FooterBanner'
 
 
 export default function App() {
@@ -10,6 +11,7 @@ export default function App() {
     <Navbar/>
     <Banner/>
       <Package/>
+      <FooterBanner/>
     </div>
   )
 }
