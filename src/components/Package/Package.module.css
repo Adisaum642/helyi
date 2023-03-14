@@ -1,0 +1,17 @@
+.package{
+  display: flex;
+  flex-direction: column;
+width: 90vw;
+height: 423px;
+
+
+  font-family: 'Plus Jakarta Sans';
+}
+
+/* .packageTitle{
+  font-weight: 800;
+font-size: 35px;
+line-height: 50px;
+margin:200px 128px;
+  
+} */

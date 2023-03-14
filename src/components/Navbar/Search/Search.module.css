@@ -1,0 +1,32 @@
+.map{
+  display:flex;
+   align-items: center;
+  justify-content:space-between;
+  
+}
+
+
+  .arrow{
+ border: 1px solid var(--color-primary);
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+   transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+input{
+  font-family: 'Plus Jakarta Sans';
+  font-size: 15px;
+  width: 135px;
+  border: hidden;
+ outline: none;
+  
+     }
+
+.img{
+  display: flex;
+align-content:center;
+  justify-content:space-between;
+}
+
